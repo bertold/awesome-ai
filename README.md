@@ -8,4 +8,5 @@ Links to awesome prompts, skills, scripts, agents.
 - [ClickHouse](https://github.com/ClickHouse/agent-skills): the official agent skills for ClickHouse
 - [Cloudflare](https://github.com/cloudflare/skills): a collection of agent skills for building on Cloudflare, Workers, the Agents SDK, and the wider Cloudflare Developer Platform
 - [Elastic](https://github.com/elastic/agent-skills): Elastic agent skills to deliver native platform expertise
+- [LangChain](https://github.com/langchain-ai/langchain-skills): agent skills for building agents with LangChain, LangGraph, and Deep Agents
 - [semgrep](https://github.com/semgrep/skills): collection of skills for AI coding agents
